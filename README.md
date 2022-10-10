@@ -18,4 +18,4 @@ I then turned to Google and try to find answers to my issue. I did try a few thi
 
 
 ## Summary
-I am going to guess, based on the examples I learned in the module, that the imbalance in the classification (low-risk vs high-risk) was too pronounced. Low-risk counts were 68,470 compared to high-risk counts at 347
+I am going to guess, based on the examples I learned in the module, that the imbalance in the classification (low-risk vs high-risk) was too pronounced. Low-risk counts were 68,470 compared to high-risk counts at 347. This difference is too deep for any of the models I ran to predict credit risk accuretely.
